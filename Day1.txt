@@ -1,3 +1,5 @@
 Today i have set up git hub on my Desktop.
 
 Installed on Laptop Complete. Syncing GitHub.
+
+Closed Bash to see what happens?
